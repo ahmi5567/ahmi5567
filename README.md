@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmad Hasan
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Node Js
+- 🌱 I’m currently learning Next Js 
 - 📫 Get Connect with me on Linkdin www.linkedin.com/in/ahmad-hassan5567
 
 
